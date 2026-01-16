@@ -1,30 +1,24 @@
-# Hello World – CSE 310 (Kotlin)
+# CSE310 – Kotlin Module 1
 
 ## Overview
-This project is a simple Hello World application written in Kotlin for the CSE 310 course.  
-The goal is to verify the development environment, demonstrate basic Kotlin syntax, and practice using Git and GitHub.
+This project is a simple Kotlin console application created for CSE 310.  
+It demonstrates basic Kotlin syntax and programming concepts.
 
-## Development Environment
-- **Programming Language:** Kotlin
-- **JDK:** Java Development Kit (JDK)
-- **IDE:** Visual Studio Code
-- **Version Control:** Git and GitHub
-- **Operating System:** macOS / Windows
+## Features
+- Variables (val and var)
+- Conditionals
+- Loops
+- Functions with comments
+- Classes
+- Collections (MutableList)
 
-## How to Run the Program
-1. Ensure the JDK and Kotlin compiler are installed.
-2. Open a terminal in the project directory.
-3. Compile the program:
-   ```bash
-   kotlinc HelloWorld.kt -include-runtime -d hello.jar
+## How to Run
+1. Open the project in IntelliJ IDEA or VS Code
+2. Run the `HelloWorld.kt` file
+3. View output in the console
 
-Run the program:
-java -jar hello.jar
+## Video Demo
+Link to demo video: (added in submission document)
 
-Video Demonstration
-
-[Insert your YouTube video link here]
-
-Author
+## Author
 Fernando Cardoso Ludvig
----
